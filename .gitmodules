@@ -1,6 +1,6 @@
-[submodule "aws-lambda-go"]
-	path = aws-lambda-go
+[submodule "github.com/aws/aws-lambda-go"]
+	path = github.com/aws/aws-lambda-go
 	url = https://github.com/aws/aws-lambda-go
-[submodule "aws-sdk-go"]
-	path = aws-sdk-go
+[submodule "github.com/aws/aws-sdk-go"]
+	path = github.com/aws/aws-sdk-go
 	url = https://github.com/aws/aws-sdk-go
